@@ -1,14 +1,10 @@
 #  STATS 220 project1
-student name: *JIE XU*
-student ID: *444883280*
+This is my repo for STATS 220. 
 
-My favorite food:
-1.Buns 
-2.Fried chicken
- * Chinese fried chicken
- * Korean fried chicken
-3. Braised Pig trotters
+A little about me:
 
-Look here is buns:
+- I am undertaking a degree in Stats
+- I am taking STATS 220 because it is my required course.
+- I am interested in learning about how to use github.
 
-![image](https://newtaipei.travel/content/images/shops/13762/1024x768_12fe847bef6000000bcd.jpg)  
+A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
